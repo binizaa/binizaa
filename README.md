@@ -6,9 +6,6 @@
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/biniza cruz ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biniza cruz ruiz" height="30" width="40" /></a>
