@@ -1,5 +1,5 @@
 # Hi, I'm Biniza!
-👩🏻‍🎓 Studying Computer Science and Technology at Tecnológico de Monterrey, Mexico<br/>
+👩🏻‍🎓 Studying Computer Science and Technology<br/>
 🌐 Passionate about graph theory and competitive programming<br/>
 🌷 #learninginpublic as I explore backend development, problem-solving, and tech innovations<br/>
 💡 Currently diving into algorithms, data structures, and participating in programming competitions like ICPC!
