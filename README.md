@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Biniza!
+# Hi, I'm Biniza!
 👩🏻‍🎓 Studying Computer Science and Technology at Tecnológico de Monterrey, Mexico<br/>
 🌐 Passionate about graph theory and competitive programming<br/>
 🌷 #learninginpublic as I explore backend development, problem-solving, and tech innovations<br/>
