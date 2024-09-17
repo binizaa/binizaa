@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Biniza!
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
-👩🏻‍🎓 Studying Computer Science and Technology at Tecnológico de Monterrey, Mexico
-🌐 Passionate about graph theory and competitive programming
-🌷 #learninginpublic as I explore backend development, problem-solving, and tech innovations
+👩🏻‍🎓 Studying Computer Science and Technology at Tecnológico de Monterrey, Mexico<br/>
+🌐 Passionate about graph theory and competitive programming<br/>
+🌷 #learninginpublic as I explore backend development, problem-solving, and tech innovations<br/>
 💡 Currently diving into algorithms, data structures, and participating in programming competitions like ICPC!
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
