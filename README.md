@@ -1,8 +1,8 @@
 # Hi, I'm Biniza!
 - 👩🏻‍🎓 Studying **Computer Science and Technology**.
-- 🌐 Passionate about graph theory and competitive programming
+- 🌐 Passionate about graph theory and competitive programming.
 - 💡 I’m looking to collaborate on a music player project implemented in C++.
-- 🎈 I’m currently a contestant in the ICPC Mexico Finals 2024.
+- 🎈 I’m currently a contestant in the **ICPC Mexico Finals 2024**.
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
