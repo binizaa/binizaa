@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
-- 📸 Instagram: \href{https://www.instagram.com/biniza.rz}{@biniza.rz}
+- 📸 Instagram: [@biniza.rz](https://www.instagram.com/biniza.rz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
