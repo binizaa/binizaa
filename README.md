@@ -1,7 +1,7 @@
 # Hi, I'm Biniza!
 - 👩🏻‍🎓Studying **Computer Science and Technology** at Tecnológico de Monterrey.
 - 🌐 Passionate about graph theory and competitive programming.
-- 💡 I’m currently working on Xpensa, an application for improving personal finances, and we will be competing in Infomatix 2025 with it.
+- 💡 Currently working on Xpensa, a personal finance app, and competing in Infomatix 2025.
 - 🎈 I’m currently a contestant in the **ICPC Mexico Finals 2024**.
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
 
