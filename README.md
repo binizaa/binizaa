@@ -2,7 +2,6 @@
 - 👩🏻‍🎓Studying **Computer Science and Technology** at Tecnológico de Monterrey.
 - 🌐 Passionate about graph theory and competitive programming.
 - 💡 Currently working on Xpensa, a personal finance app, and competing in Infomatix 2025.
-- 🎈 I’m currently a contestant in the **ICPC Mexico Finals 2024**.
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
