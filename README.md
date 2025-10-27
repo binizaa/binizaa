@@ -1,5 +1,5 @@
 # Hi, I'm Biniza!
-- 👩🏻‍🎓Studying **Computer Science and Technology** at Tecnológico de Monterrey.
+- 👩🏻‍🎓Studying **Data Science and Mathematics** at Tecnológico de Monterrey.
 - 🌐 Passionate about graph theory and competitive programming.
 - 💡 Currently working on Xpensa, a personal finance app, and competing in Infomatix 2025.
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
