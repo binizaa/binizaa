@@ -1,7 +1,7 @@
 # Hi, I'm Biniza!
 - 👩🏻‍🎓Studying **Data Science and Mathematics** at Tecnológico de Monterrey.
+- 🦉 Incoming Software Engineer Intern at **Duolingo**, Pittsburgh (Summer 2025).
 - 🌐 Passionate about graph theory and competitive programming.
-- 💡 Currently working on Xpensa, a personal finance app, and competing in Infomatix 2025.
 - ⚡ Fun fact: I can sing the entire "You belong with me" by Taylor Swift.
 
 - 📫 How to reach me **binizacruuiz@gmail.com**
